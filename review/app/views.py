@@ -1,4 +1,6 @@
 from django.shortcuts import redirect, render, get_object_or_404
+from django.urls import reverse
+
 from .models import Product, Review
 from .forms import ReviewForm
 
@@ -17,24 +19,31 @@ def product_list_view(request):
 def product_view(request, pk):
     template = 'app/product_detail.html'
     product = get_object_or_404(Product, id=pk)
-    reviews = product.review_set.all()
-
-    if not request.session.get('reviewed_products'):
-        request.session['reviewed_products'] = list()
+    reviews = Review.objects.all().filter(product=product)
 
     if request.method == 'POST':
-        form = ReviewForm(request, pk, request.POST)
-        if form.is_valid():
-            Review.objects.create(text=form.cleaned_data['text'], product=Product.objects.get(id=pk))
-            request.session['reviewed_products'].append(pk)
-            return redirect('product_detail', pk=pk)
+        form = ReviewForm(request.POST)
+        review = form.save(commit=False)
+        review.product = product
+        review.save()
 
-    elif request.method == 'GET':
-        form = ReviewForm(request, pk)
+        request.session['reviewed_products'].append(pk)
+        request.session.modified = True
+
+        is_review_exist = True
+        form = None
+    else:
+        if pk in request.session['reviewed_products']:
+            is_review_exist = True
+            form = None
+        else:
+            is_review_exist = False
+            form = ReviewForm()
 
     context = {
         'form': form,
         'product': product,
+        'is_review_exist': is_review_exist,
         'reviews': reviews
     }
 

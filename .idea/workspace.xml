@@ -2,242 +2,43 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a14cf7b9-66ed-42a5-aa1a-3535c0574da1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../creating-project/cli_and_doc/application/app/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../creating-project/cli_and_doc/application/app/templatetags/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../creating-project/cli_and_doc/application/table/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../creating-project/cli_and_doc/application/table/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../creating-project/cli_and_doc/application/table/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../creating-project/cli_and_doc/application/table/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../creating-project/cli_and_doc/application/table/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../creating-project/cli_and_doc/application/table/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../creating-project/cli_and_doc/application/table/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dynamic-templates/task1/app/tampletags/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dynamic-templates/task1/app/tampletags/color_filter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dynamic-templates/task2/app/templates/app/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../request-handling/file_server/files/server.04" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../request-handling/file_server/files/server.05" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../creating-project/application/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../creating-project/cli_and_doc/application/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../creating-project/application/app/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../creating-project/cli_and_doc/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../creating-project/application/app/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../creating-project/cli_and_doc/application/app/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../creating-project/application/app/templatetags/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../creating-project/cli_and_doc/application/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../creating-project/application/app/templatetags/app_tags.py" beforeDir="false" afterPath="$PROJECT_DIR$/../creating-project/cli_and_doc/application/app/templatetags/app_tags.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../creating-project/application/app/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../creating-project/cli_and_doc/application/app/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../creating-project/application/app/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../creating-project/cli_and_doc/application/app/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../creating-project/application/app/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/../creating-project/cli_and_doc/application/app/wsgi.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../creating-project/application/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/../creating-project/cli_and_doc/application/manage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../creating-project/application/phones.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../creating-project/cli_and_doc/application/phones.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../creating-project/application/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../creating-project/cli_and_doc/application/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../creating-project/application/static/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/../creating-project/cli_and_doc/application/static/css/bootstrap.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../creating-project/application/static/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../creating-project/cli_and_doc/application/static/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../creating-project/application/static/js/bootstrap.bundle.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../creating-project/cli_and_doc/application/static/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../creating-project/application/static/js/jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../creating-project/cli_and_doc/application/static/js/jquery.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../creating-project/application/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/../creating-project/cli_and_doc/application/templates/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../creating-project/application/templates/table.html" beforeDir="false" afterPath="$PROJECT_DIR$/../creating-project/cli_and_doc/application/templates/table.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databases/models_list_displaying/books/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../databases/models_list_displaying/books/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databases/models_list_displaying/main/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../databases/models_list_displaying/main/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databases/models_list_displaying/templates/books/books_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/../databases/models_list_displaying/templates/books/books_list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databases/phone_comparison/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../databases/phone_comparison/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databases/phone_comparison/main/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../databases/phone_comparison/main/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databases/phone_comparison/main/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../databases/phone_comparison/main/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databases/phone_comparison/main/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/../databases/phone_comparison/main/wsgi.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databases/phone_comparison/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/../databases/phone_comparison/manage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databases/phone_comparison/phones/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/../databases/phone_comparison/phones/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databases/phone_comparison/phones/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/../databases/phone_comparison/phones/apps.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databases/phone_comparison/phones/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/../databases/phone_comparison/phones/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databases/phone_comparison/phones/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/../databases/phone_comparison/phones/tests.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databases/phone_comparison/phones/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../databases/phone_comparison/phones/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databases/phone_comparison/static/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/../databases/phone_comparison/static/css/bootstrap.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databases/phone_comparison/static/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/../databases/phone_comparison/static/css/bootstrap.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databases/phone_comparison/static/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../databases/phone_comparison/static/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databases/phone_comparison/static/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/../databases/phone_comparison/static/js/bootstrap.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databases/phone_comparison/static/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../databases/phone_comparison/static/js/bootstrap.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databases/phone_comparison/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/../databases/phone_comparison/templates/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databases/phone_comparison/templates/catalog.html" beforeDir="false" afterPath="$PROJECT_DIR$/../databases/phone_comparison/templates/catalog.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databases/work_with_database/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../databases/work_with_database/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databases/work_with_database/main/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../databases/work_with_database/main/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databases/work_with_database/main/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../databases/work_with_database/main/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databases/work_with_database/main/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/../databases/work_with_database/main/wsgi.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databases/work_with_database/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/../databases/work_with_database/manage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databases/work_with_database/phones.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../databases/work_with_database/phones.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databases/work_with_database/phones/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/../databases/work_with_database/phones/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databases/work_with_database/phones/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/../databases/work_with_database/phones/apps.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databases/work_with_database/phones/management/commands/import_phones.py" beforeDir="false" afterPath="$PROJECT_DIR$/../databases/work_with_database/phones/management/commands/import_phones.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databases/work_with_database/phones/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/../databases/work_with_database/phones/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databases/work_with_database/phones/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/../databases/work_with_database/phones/tests.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databases/work_with_database/phones/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../databases/work_with_database/phones/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databases/work_with_database/static/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/../databases/work_with_database/static/css/bootstrap.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databases/work_with_database/static/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/../databases/work_with_database/static/css/bootstrap.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databases/work_with_database/static/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../databases/work_with_database/static/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databases/work_with_database/static/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/../databases/work_with_database/static/js/bootstrap.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databases/work_with_database/static/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../databases/work_with_database/static/js/bootstrap.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databases/work_with_database/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/../databases/work_with_database/templates/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databases/work_with_database/templates/catalog.html" beforeDir="false" afterPath="$PROJECT_DIR$/../databases/work_with_database/templates/catalog.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databases/work_with_database/templates/product.html" beforeDir="false" afterPath="$PROJECT_DIR$/../databases/work_with_database/templates/product.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databases_2/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databases_2/m2m-relations/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../databases_2/m2m-relations/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databases_2/m2m-relations/articles.json" beforeDir="false" afterPath="$PROJECT_DIR$/../databases_2/m2m-relations/articles.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databases_2/m2m-relations/articles/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/../databases_2/m2m-relations/articles/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databases_2/m2m-relations/articles/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/../databases_2/m2m-relations/articles/apps.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databases_2/m2m-relations/articles/migrations/0001_initial.py" beforeDir="false" afterPath="$PROJECT_DIR$/../databases_2/m2m-relations/articles/migrations/0001_initial.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databases_2/m2m-relations/articles/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/../databases_2/m2m-relations/articles/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databases_2/m2m-relations/articles/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/../databases_2/m2m-relations/articles/tests.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databases_2/m2m-relations/articles/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../databases_2/m2m-relations/articles/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databases_2/m2m-relations/articles/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../databases_2/m2m-relations/articles/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databases_2/m2m-relations/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/../databases_2/m2m-relations/manage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databases_2/m2m-relations/static/css/3-col-portfolio.css" beforeDir="false" afterPath="$PROJECT_DIR$/../databases_2/m2m-relations/static/css/3-col-portfolio.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databases_2/m2m-relations/static/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/../databases_2/m2m-relations/static/css/bootstrap.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databases_2/m2m-relations/static/js/bootstrap.bundle.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../databases_2/m2m-relations/static/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databases_2/m2m-relations/static/js/jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../databases_2/m2m-relations/static/js/jquery.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databases_2/m2m-relations/templates/articles/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/../databases_2/m2m-relations/templates/articles/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databases_2/m2m-relations/templates/articles/news.html" beforeDir="false" afterPath="$PROJECT_DIR$/../databases_2/m2m-relations/templates/articles/news.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databases_2/m2m-relations/website/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../databases_2/m2m-relations/website/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databases_2/m2m-relations/website/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../databases_2/m2m-relations/website/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databases_2/m2m-relations/website/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/../databases_2/m2m-relations/website/wsgi.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databases_2/orm_migrations/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../databases_2/orm_migrations/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databases_2/orm_migrations/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/../databases_2/orm_migrations/manage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databases_2/orm_migrations/school.json" beforeDir="false" afterPath="$PROJECT_DIR$/../databases_2/orm_migrations/school.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databases_2/orm_migrations/school/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/../databases_2/orm_migrations/school/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databases_2/orm_migrations/school/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/../databases_2/orm_migrations/school/apps.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databases_2/orm_migrations/school/migrations/0001_initial.py" beforeDir="false" afterPath="$PROJECT_DIR$/../databases_2/orm_migrations/school/migrations/0001_initial.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databases_2/orm_migrations/school/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/../databases_2/orm_migrations/school/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databases_2/orm_migrations/school/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../databases_2/orm_migrations/school/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databases_2/orm_migrations/school/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../databases_2/orm_migrations/school/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databases_2/orm_migrations/static/css/3-col-portfolio.css" beforeDir="false" afterPath="$PROJECT_DIR$/../databases_2/orm_migrations/static/css/3-col-portfolio.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databases_2/orm_migrations/static/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/../databases_2/orm_migrations/static/css/bootstrap.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databases_2/orm_migrations/static/js/bootstrap.bundle.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../databases_2/orm_migrations/static/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databases_2/orm_migrations/static/js/jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../databases_2/orm_migrations/static/js/jquery.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databases_2/orm_migrations/templates/school/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/../databases_2/orm_migrations/templates/school/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databases_2/orm_migrations/templates/school/students_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/../databases_2/orm_migrations/templates/school/students_list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databases_2/orm_migrations/website/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../databases_2/orm_migrations/website/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databases_2/orm_migrations/website/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../databases_2/orm_migrations/website/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databases_2/orm_migrations/website/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/../databases_2/orm_migrations/website/wsgi.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databases_2/orm_query/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../databases_2/orm_query/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databases_2/orm_query/articles/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/../databases_2/orm_query/articles/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databases_2/orm_query/articles/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/../databases_2/orm_query/articles/apps.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databases_2/orm_query/articles/migrations/0001_initial.py" beforeDir="false" afterPath="$PROJECT_DIR$/../databases_2/orm_query/articles/migrations/0001_initial.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databases_2/orm_query/articles/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/../databases_2/orm_query/articles/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databases_2/orm_query/articles/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../databases_2/orm_query/articles/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databases_2/orm_query/articles/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../databases_2/orm_query/articles/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databases_2/orm_query/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/../databases_2/orm_query/manage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databases_2/orm_query/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../databases_2/orm_query/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databases_2/orm_query/static/css/3-col-portfolio.css" beforeDir="false" afterPath="$PROJECT_DIR$/../databases_2/orm_query/static/css/3-col-portfolio.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databases_2/orm_query/static/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/../databases_2/orm_query/static/css/bootstrap.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databases_2/orm_query/static/js/bootstrap.bundle.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../databases_2/orm_query/static/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databases_2/orm_query/static/js/jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../databases_2/orm_query/static/js/jquery.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databases_2/orm_query/templates/articles/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/../databases_2/orm_query/templates/articles/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databases_2/orm_query/templates/articles/news.html" beforeDir="false" afterPath="$PROJECT_DIR$/../databases_2/orm_query/templates/articles/news.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databases_2/orm_query/website/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../databases_2/orm_query/website/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databases_2/orm_query/website/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../databases_2/orm_query/website/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databases_2/orm_query/website/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/../databases_2/orm_query/website/wsgi.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dynamic-templates/task1/app/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../dynamic-templates/task1/app/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dynamic-templates/task1/app/templates/inflation.html" beforeDir="false" afterPath="$PROJECT_DIR$/../dynamic-templates/task1/app/templates/inflation.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dynamic-templates/task1/app/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../dynamic-templates/task1/app/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dynamic-templates/task3/app/templates/top_reddit.html" beforeDir="false" afterPath="$PROJECT_DIR$/../dynamic-templates/task3/app/templates/top_reddit.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dynamic-templates/task3/app/templatetags/news_filters.py" beforeDir="false" afterPath="$PROJECT_DIR$/../dynamic-templates/task3/app/templatetags/news_filters.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../first-project/first_project/app/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../first-project/first_project/app/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../first-project/first_project/first_project/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../first-project/first_project/first_project/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../request-handling/file_server/app/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../request-handling/file_server/app/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../request-handling/file_server/app/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../request-handling/file_server/app/templates/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../request-handling/file_server/app/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../request-handling/file_server/app/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../request-handling/file_server/app/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../request-handling/file_server/app/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../request-handling/file_server/files/server.02" beforeDir="false" afterPath="$PROJECT_DIR$/../request-handling/file_server/files/server.02" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../request-handling/landing/app/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../request-handling/landing/app/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../request-handling/pagination/app/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../request-handling/pagination/app/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/avia_scanner/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/avia_scanner/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/avia_scanner/app.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/avia_scanner/app/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/avia_scanner/app/admin.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/avia_scanner/app/apps.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/avia_scanner/app/forms.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/avia_scanner/app/migrations/0001_initial.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/avia_scanner/app/migrations/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/avia_scanner/app/models.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/avia_scanner/app/templates/widget/ajax_input_widget.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/avia_scanner/app/views.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/avia_scanner/app/widgets.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/avia_scanner/avia_scanner/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/avia_scanner/avia_scanner/settings.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/avia_scanner/avia_scanner/settings_local_sample.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/avia_scanner/avia_scanner/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/avia_scanner/avia_scanner/wsgi.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/avia_scanner/docs/citypicker_ajax.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/avia_scanner/docs/citypicker_standart.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/avia_scanner/docs/datepicker.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/avia_scanner/manage.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/avia_scanner/requirements.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/avia_scanner/static/css/avia.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/avia_scanner/static/css/bootstrap.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/avia_scanner/static/css/jquery-ui.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/avia_scanner/static/js/bootstrap.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/avia_scanner/static/js/jquery-ui.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/avia_scanner/static/js/jquery3.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/avia_scanner/templates/app/ticket_page.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/car_admin/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/car_admin/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/car_admin/app.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/car_admin/app/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/car_admin/app/admin.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/car_admin/app/apps.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/car_admin/app/forms.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/car_admin/app/migrations/0001_initial.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/car_admin/app/migrations/0002_review_title.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/car_admin/app/migrations/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/car_admin/app/models.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/car_admin/app/tests.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/car_admin/app/views.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/car_admin/car_admin/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/car_admin/car_admin/settings.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/car_admin/car_admin/settings_local_sample.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/car_admin/car_admin/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/car_admin/car_admin/wsgi.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/car_admin/docs/admin_car.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/car_admin/docs/admin_review.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/car_admin/docs/ckeditor_full.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/car_admin/manage.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/car_admin/requirements.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/car_admin/templates/app/calc.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/credit_calc/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/credit_calc/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/credit_calc/app/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/credit_calc/app/admin.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/credit_calc/app/apps.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/credit_calc/app/forms.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/credit_calc/app/migrations/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/credit_calc/app/views.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/credit_calc/credit_calc/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/credit_calc/credit_calc/settings.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/credit_calc/credit_calc/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/credit_calc/credit_calc/wsgi.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/credit_calc/docs/calc.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/credit_calc/manage.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/credit_calc/requirements.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/credit_calc/static/css/bootstrap.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/credit_calc/static/css/calc.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/credit_calc/static/js/bootstrap.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/credit_calc/static/js/jquery3.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/credit_calc/templates/app/calc.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/review/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/review/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/review/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/review/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/review/app/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/review/app/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/review/app/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/review/app/apps.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/review/app/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/review/app/forms.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/review/app/migrations/0001_initial.py" beforeDir="false" afterPath="$PROJECT_DIR$/review/app/migrations/0001_initial.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/review/app/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/review/app/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/review/app/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/review/app/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/review/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/review/manage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/review/product_review/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/review/product_review/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/review/product_review/settings_local_sample.py" beforeDir="false" afterPath="$PROJECT_DIR$/review/product_review/settings_local_sample.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/review/product_review/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/review/product_review/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/review/product_review/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/review/product_review/wsgi.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/review/static/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/review/static/css/bootstrap.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/review/static/css/review.css" beforeDir="false" afterPath="$PROJECT_DIR$/review/static/css/review.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/review/static/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/review/static/js/bootstrap.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/review/static/js/jquery3.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/review/static/js/jquery3.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/review/templates/app/product_detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/review/templates/app/product_detail.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/review/templates/app/product_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/review/templates/app/product_list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/review/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/review/templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../creating-project/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../creating-project/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../creating-project/cli_and_doc/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../creating-project/cli_and_doc/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../creating-project/cli_and_doc/application/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../creating-project/cli_and_doc/application/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../creating-project/cli_and_doc/application/app/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../creating-project/cli_and_doc/application/app/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../creating-project/cli_and_doc/application/app/templatetags/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../creating-project/cli_and_doc/application/app/templatetags/app_tags.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../creating-project/cli_and_doc/application/app/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../creating-project/cli_and_doc/application/app/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../creating-project/cli_and_doc/application/app/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../creating-project/cli_and_doc/application/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../creating-project/cli_and_doc/application/phones.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../creating-project/cli_and_doc/application/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../creating-project/cli_and_doc/application/static/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../creating-project/cli_and_doc/application/static/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../creating-project/cli_and_doc/application/static/js/bootstrap.bundle.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../creating-project/cli_and_doc/application/static/js/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../creating-project/cli_and_doc/application/table/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../creating-project/cli_and_doc/application/table/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../creating-project/cli_and_doc/application/table/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../creating-project/cli_and_doc/application/table/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../creating-project/cli_and_doc/application/table/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../creating-project/cli_and_doc/application/table/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../creating-project/cli_and_doc/application/table/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../creating-project/cli_and_doc/application/templates/base.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../creating-project/cli_and_doc/application/templates/table.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../creating-project/cli_and_doc/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../creating-project/cli_and_doc/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../creating-project/project/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../creating-project/project/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../creating-project/project/moscow_bus_stations.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../creating-project/project/moscow_bus_stations.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../creating-project/project/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../creating-project/project/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../creating-project/project/static/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/../creating-project/project/static/css/bootstrap.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../creating-project/project/static/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../creating-project/project/static/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../creating-project/project/static/js/bootstrap.bundle.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../creating-project/project/static/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../creating-project/project/static/js/jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../creating-project/project/static/js/jquery.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../creating-project/project/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/../creating-project/project/templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../creating-project/project/templates/stations.html" beforeDir="false" afterPath="$PROJECT_DIR$/../creating-project/project/templates/stations.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -246,7 +47,14 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\Абакар\djangos\site-form-works\.idea" />
+      </set>
+    </option>
   </component>
   <component name="ProjectId" id="1Tw91tMqZW2a2ADwk01FGoxsIin" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
